@@ -1,0 +1,5 @@
+package com.techscore.springboot;
+
+public class HelloController {
+
+}
